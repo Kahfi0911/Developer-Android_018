@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Simple Shopping List V2.1</string>
+    <string name="add_item">Add Item</string>
+    <string name="keju">Keju</string>
+    <string name="Jeruk">Jeruk</string>
+    <string name="kacang">Kacang</string>
+    <string name="Coklat">Coklat</string>
+    <string name="pizza">Pizza</string>
+    <string name="Tepung">Tepung</string>
+</resources>
